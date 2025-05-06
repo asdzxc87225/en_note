@@ -1,0 +1,15 @@
+site_name: 多益550筆記系統
+nav:
+  - 總覽: README.md
+  - 練習紀錄: logs/
+  - 筆記:
+      - 文法整理: notes/grammar/
+      - 單字筆記: notes/vocab/
+      - 解題策略: notes/strategy/
+      - 進度統計: notes/progress/
+  - 心情日記: diary/
+  - 發展藍圖: roadmap/
+theme:
+  name: material
+  language: zh
+
